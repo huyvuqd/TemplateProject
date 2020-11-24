@@ -1,9 +1,6 @@
-# OnionIdentity
+# Onion Identity
 Onion Architecture With ASP.NET Identity And ASP.NET MVC
 
-Пример использования ASP.NET Identity с луковичной архитектурой приложения.
-
-Использованы подходы из таких ресурсов:
 
 https://chsakell.com/2015/02/15/asp-net-mvc-solution-architecture-best-practices/
 
